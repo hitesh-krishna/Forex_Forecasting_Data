@@ -1,1 +1,1 @@
-# Forex_Forecasting_Data
+# Forex_Forecasting_EUR-JPY
